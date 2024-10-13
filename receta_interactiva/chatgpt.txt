@@ -1,0 +1,32 @@
+link: https://chatgpt.com/share/670b063c-9780-800b-a792-fd9e0d4b1cf4
+
+link: https://chatgpt.com/share/670b0666-1fe0-800b-9a49-8bf9743e264d
+
+link: https://chatgpt.com/share/670b0637-3970-800b-aca6-4819b54a2be1
+
+1.-has que la aparicion de las recetas sea como una barra que se abre, cuando lo presionas se abre, 
+con el simbolo < apuntando hacia abajo cuando lo precionen y apuntando hacia arriba cuando lo vuelvan a presionar.
+
+2.-un buen uso del espacio, el contenido no debe salirse del contenedor, y que no se superponga entre ellos.
+
+3.-crea un boton de editar en este codigo de processing en P5.js, 
+en el que se haga un boton de editar directamente en los cuadros. no borres lo que hay en los cuadros, muestrame el codigo completo.
+
+4.-me referia a que los botones no fueran una imagen plana. ademas agrega un boton para borrar la receseta y un boton para crear una nueva receseta.
+
+5.-coloca una barra search en el codigo que cuando escriba la o las palabras mas parecidos. 
+aparecera el contenedor o contenedores que mas se asemeje en el search.
+
+6.-has que solo las flechas sean capases de abrir y cerrar los contenedores:
+recuerda darme el codigo completo. 
+ademas para que sepas cuando me diste el ultimo codigo solo me mando una pantalla en blanco.
+
+7.-has que las recetas tengan un boton para descargar las recetas en un archivo pdf, cada una individualmente. 
+recuerda darme el codigo completo.
+
+	*se agrego esto en el index.html:
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+
+8.-cada ves que se recarga la pagina se pierde todo lo editado. 
+quiero que cuando se recargue la pagina y no se pierda todo lo que se ha hecho.
+recuerda darme el codigo completo.
